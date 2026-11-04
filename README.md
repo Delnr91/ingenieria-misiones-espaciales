@@ -4,11 +4,11 @@
 
 *Ilustración conceptual generada con IA para esta biblioteca independiente.*
 
-**Aprende a formular y analizar misiones espaciales, paso a paso, en español.** Esta biblioteca educativa independiente se inspira en la referencia *Space Mission Analysis and Design* (SMAD), editada por James R. Wertz y Wiley J. Larson.
+**Estudia diseño de misiones espaciales paso a paso y aplica lo aprendido en proyectos con ayuda de un asistente.** Esta biblioteca educativa independiente desarrolla apuntes originales en español a partir de *Space Mission Analysis and Design* (SMAD), editado por James R. Wertz y Wiley J. Larson, y de fuentes públicas complementarias.
 
 [📖 Comenzar la lección 1](lecciones/01-que-es-una-mision-espacial.md) · [👩‍🚀 Autores y obras](autores/README.md) · [📚 Acceso al libro](biblioteca/README.md) · [🛠️ Skills: diseño](skills/disenar-misiones-espaciales/README.md) y [revisión de software](skills/revisar-software-mision/README.md)
 
-> **Estado:** biblioteca en construcción. Las lecciones disponibles son originales y se apoyan en fuentes públicas de NASA. La edición concreta y los capítulos del libro aún están pendientes de confirmar y estudiar con acceso autorizado.
+> **Estado:** biblioteca en construcción. Ya existe un apunte original del capítulo 1 de SMAD, tercera edición. Los capítulos restantes y el libro completo todavía no han sido estudiados; las lecciones introductorias se basan en fuentes públicas de NASA. La autorización para distribuir el PDF no ha sido verificada.
 
 ## 🧭 Rutas de aprendizaje
 
@@ -18,10 +18,18 @@
 | 📐 Requisitos de software | Necesidades, pruebas y evidencia | [Lección 2 disponible](lecciones/02-requisitos-software.md) |
 | 🛰️ Subsistemas | Carga útil, potencia, comunicaciones, control y plataforma | Planificado |
 | 🔬 Verificación | Evidencia, incertidumbre y revisión | Planificado |
-| 📚 Lectura de SMAD | Apuntes por capítulo de la edición autorizada | Pendiente de acceso y confirmación |
+| 📚 Estudiar SMAD | Apuntes originales por capítulo | [Capítulo 1](lecciones/smad-capitulo-01-apunte.md) disponible; los demás están pendientes |
 | 🎧 Escucha | Resumen introductorio y lectura por voz | [MP3 de la lección 1](audio/01-resumen.mp3); no es un audiolibro del libro |
 
-Estas rutas son una propuesta pedagógica independiente: **no son el índice verificado del libro**. No se presenta este proyecto como un curso de NASA o una publicación de los autores.
+Las rutas temáticas son una propuesta pedagógica independiente, no una reproducción del índice del libro. Cada apunte identifica las páginas consultadas. Este proyecto no es un curso oficial de NASA ni una publicación de los autores.
+
+## 🤖 Del estudio a un asistente para proyectos
+
+Una **skill** aporta instrucciones y fuentes a un asistente compatible; no entrena el modelo de forma permanente. Comienza con el [apunte del capítulo 1](lecciones/smad-capitulo-01-apunte.md), identifica objetivos, alternativas y evidencias, y después aplica las skills a un caso real o ficticio. Cada capítulo se incorporará después de su estudio.
+
+> Ejemplo: «Revisa este repositorio de una misión educativa. Relaciona necesidades, requisitos, código y pruebas; compara alternativas, cita la evidencia y señala lo que no está verificado».
+
+Las skills apoyan el razonamiento y la revisión humana; no certifican sistemas ni deciden el lanzamiento. La versión de revisión es un prototipo sin evaluación conductual independiente.
 
 ## 🛠️ Aplicar: skill de análisis de misión
 
@@ -50,6 +58,6 @@ SMAD es una obra con derechos de autor. Este repositorio no incluye una copia de
 
 Los apuntes originales, diagramas originales y documentación se ofrecen bajo [CC BY 4.0](LICENSE.md). Las publicaciones externas mantienen sus derechos; dar acceso público a un archivo no demuestra que se pueda redistribuir.
 
-[Fuentes y verificación](FUENTES.md) · [Contribuir](CONTRIBUTING.md)
+[Fuentes y verificación](FUENTES.md) · [Uso y derechos en Chile](biblioteca/derechos-uso-chile.md) · [Contribuir](CONTRIBUTING.md)
 
 Desarrollado por **Lattices Startup** · Recurso independiente para aprender y compartir conocimiento.
