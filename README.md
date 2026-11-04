@@ -1,17 +1,21 @@
 # 🚀 Ingeniería de misiones espaciales · Biblioteca de estudio
 
+![Portada ilustrada: la Tierra, un satélite y una ruta de aprendizaje hacia el espacio](assets/portada-misiones-espaciales.png)
+
+*Ilustración conceptual generada con IA para esta biblioteca independiente.*
+
 **Aprende a formular y analizar misiones espaciales, paso a paso, en español.** Esta biblioteca educativa independiente se inspira en la referencia *Space Mission Analysis and Design* (SMAD), editada por James R. Wertz y Wiley J. Larson.
 
-[📖 Comenzar la lección 1](lecciones/01-que-es-una-mision-espacial.md) · [👩‍🚀 Autores y obras](autores/README.md) · [📚 Acceso al libro](biblioteca/README.md) · [🛠️ Skill: instalar y usar](skills/disenar-misiones-espaciales/README.md)
+[📖 Comenzar la lección 1](lecciones/01-que-es-una-mision-espacial.md) · [👩‍🚀 Autores y obras](autores/README.md) · [📚 Acceso al libro](biblioteca/README.md) · [🛠️ Skills: diseño](skills/disenar-misiones-espaciales/README.md) y [revisión de software](skills/revisar-software-mision/README.md)
 
-> **Estado:** biblioteca en construcción. La primera lección es original y se apoya en fuentes públicas de NASA. La edición concreta y los capítulos del libro aún están pendientes de confirmar y estudiar con acceso autorizado.
+> **Estado:** biblioteca en construcción. Las lecciones disponibles son originales y se apoyan en fuentes públicas de NASA. La edición concreta y los capítulos del libro aún están pendientes de confirmar y estudiar con acceso autorizado.
 
 ## 🧭 Rutas de aprendizaje
 
 | Ruta | Contenido | Estado |
 |---|---|---|
 | 🌱 Fundamentos | Pregunta, objetivos, sistema, entorno y misión | [Lección 1 disponible](lecciones/01-que-es-una-mision-espacial.md) |
-| 📐 Diseño de misión | Requisitos, arquitectura y alternativas | Planificado |
+| 📐 Requisitos de software | Necesidades, pruebas y evidencia | [Lección 2 disponible](lecciones/02-requisitos-software.md) |
 | 🛰️ Subsistemas | Carga útil, potencia, comunicaciones, control y plataforma | Planificado |
 | 🔬 Verificación | Evidencia, incertidumbre y revisión | Planificado |
 | 📚 Lectura de SMAD | Apuntes por capítulo de la edición autorizada | Pendiente de acceso y confirmación |
@@ -28,6 +32,10 @@ Ejemplo de solicitud:
 > Usa la skill para ayudarme a describir una misión educativa ficticia de observación terrestre. Explica los requisitos, alternativas, incertidumbres y qué faltaría validar.
 
 La skill es una primera versión sin validación práctica independiente. No certifica seguridad, cumplimiento, vuelo o viabilidad de una misión.
+
+### 🔍 Skill de revisión de software
+
+La [skill para revisar software de misión](skills/revisar-software-mision/README.md) ayuda a relacionar requisitos, código, pruebas y evidencia, e identificar decisiones pendientes. Es un prototipo educativo sin evaluación conductual independiente; requiere revisión humana y no certifica seguridad ni aptitud para vuelo.
 
 ## 📚 Libro y recursos
 

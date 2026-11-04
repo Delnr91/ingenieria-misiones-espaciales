@@ -7,6 +7,7 @@
 Referencia identificada: James R. Wertz y Wiley J. Larson, **tercera edición**, 1999. Springer registra la edición de tapa dura con ISBN **978-0-7923-5901-2** y atribuye derechos a Microcosm y Wiley Larson. Existen diferentes ediciones y formatos: consulta su portada y condiciones antes de citar.
 
 - [Ficha de Springer](https://link.springer.com/book/9780792359012): consulta disponibilidad, acceso institucional y condiciones.
+- [Versión electrónica registrada en Open Library](https://openlibrary.org/books/OL44981411M/Space_mission_analysis_and_design): la ficha indica una reproducción de Knovel para instituciones con licencia. Confirma con tu biblioteca si dispone de acceso y si permite descargarla.
 - [Ficha WorldCat](https://search.worldcat.org/title/951329431): busca en bibliotecas.
 - [Ficha Open Library](https://openlibrary.org/books/OL8682428M/Space_Mission_Analysis_and_Design_3rd_edition_%28Space_Technology_Library%29_%28Space_Technology_Library%29): información bibliográfica y opciones indicadas por el catálogo.
 
